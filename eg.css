@@ -1,0 +1,28 @@
+/*
+ * -- BASE STYLES --
+  */
+body {
+    color: #526066;
+}
+
+
+/*
+ * -- Layout Styles --
+ */
+
+.l-box {
+    padding: 0.3em 1em;
+}
+
+
+.footer {
+    background: #DCDCDC;
+    color: #000000;
+    text-align: center;
+}
+    .footer a {
+        color: #000000;
+    }
+
+
+
